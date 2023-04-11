@@ -31,3 +31,4 @@ function NewMeetupPage() {
 export default NewMeetupPage;
 
 //fetch= get. To change to post add method:
+//fetch block is http reqest. History.replace takes in the path to nav to after 
